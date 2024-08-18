@@ -1,0 +1,368 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+#logo{
+    height: 90px;
+    width: 90px;
+    margin-left: 50px;
+}
+#top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(242, 244, 244);
+    position: fixed;
+    width: 100%;
+    
+    
+    
+
+}
+.list-item{
+    display: inline;
+    margin: 20px;
+    font-size: 20px;
+    
+}
+.link{
+    
+    color: black;
+}
+#un{
+    text-decoration: none;
+}
+sup{
+    color: chocolate;
+}
+.link:hover{
+    color: chocolate;
+}
+#un{
+    color: black;
+    position: relative;
+    left: -500px;
+    text-decoration: underline;
+    
+    
+}
+#un:hover{
+    color: chocolate;
+}
+
+
+span{
+    margin-left: 5px;
+}
+.suba{
+    
+    
+}
+.heada{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.aa{
+    height: 90px;
+    width: 110px;
+    
+    background-color: white;
+    margin-top: 30px;
+    margin: 40px;
+    
+}
+.suba{
+    display: flex;
+    justify-content: center;
+    
+}
+#ima{
+    border-radius: 20px;
+}
+#mind{
+    font-size: 20px;
+    padding:15px;
+}
+#second{
+    margin-top: 50px;
+   font-weight: lighter;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.restaurants{
+    margin-left:105px ;
+}
+
+   
+    
+
+.first-button{
+    background-color:white;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+    border-color: rgb(235, 186, 186);
+    margin: 20px;
+
+    
+}
+.search{
+    border-radius: 10px;
+    height: 25px;
+    width: 190px;
+}
+.nav-a{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    
+    
+}
+.second-nav{
+   
+    height: 90px;
+    width: 100%;
+    background-color: white;
+    margin-left: 80px;
+}
+/*1st hotel  */
+.first-hotel{
+    height: 200px;
+    width: 290px;
+    background-color: white;
+    
+    margin: 6px;
+    border-radius: 20px;
+}
+.first-row{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+#frow{
+    border-radius: 20px;
+    
+    
+}
+/*2nd hotel  */
+.sec-hotel{
+    height: 200px;
+    width: 290px;
+    background-color: white;
+    
+    margin: 6px;
+    border-radius: 20px;
+    margin-top: 130px;
+}
+.secrow{
+    display: flex;
+    justify-content: center;
+}
+#srow{
+    border-radius: 20px;
+}
+/*3rd hotel  */
+.th-hotel{
+    height: 200px;
+    width: 290px;
+    background-color: white;
+    
+    margin: 6px;
+    border-radius: 20px;
+    margin-top: 130px;
+}
+.thrid-row{
+    display: flex;
+    justify-content: center;
+}
+#trow{
+    border-radius: 20px;
+}
+/*horizondal  3*/
+#third{
+    margin: 120px;
+}
+/*best place across city  */
+.place{
+    
+    margin-top: -90px;
+    margin-left: 120px;
+    
+    
+}
+.place-button1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+#bpcd{
+    margin: 30px;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+}
+.place-button2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+#hmkj{
+    margin: 30px;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+}
+/* best cuisines near me */
+.cuisiens{
+    margin-top: 10px;
+    margin-left: 120px;
+    
+
+}    
+.cuisien-button1{
+    display: flex;
+    justify-content: center;
+
+}
+#cvni{
+    margin: 30px;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+}
+.cuisien-button2{
+    display: flex;
+    justify-content: center;
+
+
+}    
+#spis{
+    margin: 30px;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+}
+/* explore resturant */
+.explore{
+    margin-left: 120px; 
+      
+}
+.explore-button{
+    display: flex;
+    justify-content: center;
+}
+#ee{
+    height: 40px;
+    width: 500px;
+    margin: 20px;
+}
+/*nav bar 3  */
+.navf{
+    height: 100px;
+    background-color: rgb(149, 148, 148);
+    display: flex;
+    
+}
+.nav3{
+    margin-top: 40px;
+    width: 100%;
+    
+    
+}
+#download{
+    margin-left: 150px;
+    padding-top: 20px;
+    font-weight: 2000;
+}
+#playstore{
+    padding: 6px;
+    margin-left: 60px;
+}
+.footer{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+.subfooter{
+    height: 450px;
+    width: 200px;
+    background-color: black;
+   
+    margin: 60px;
+}
+#one{
+    color:white;
+    padding-left: 61px;
+    margin-top: -50px;
+    font-weight: 900;
+    font-size: 25px;
+
+}
+#sone{
+    color: white;
+    font-weight: lighter;
+    
+}
+#two{
+    color: white;
+    
+    font-weight: 900;
+    font-size: 25px;
+    
+}
+#stwo{
+    color: white;
+    
+}
+#three{
+    color: white;
+    font-weight: 900;
+    font-size: 25px;
+    
+}
+#sthree{
+    color: white;
+}
+#four{
+    color: white;
+    font-weight: 900;
+    font-size: 25px;
+    
+}
+#sfour{
+    color: white;
+}
+#five{
+    color: white;
+    font-weight: 900;
+    font-size: 25px;
+}
+#sfive{
+    color: white;
+}
+#fbutton{
+    border-radius: 20px;
+    width: 100px;
+    height: 20px;
+}
+#frow:hover{
+    width: 280px;
+    height: 190px;
+}
+#srow:hover{
+    width: 280px;
+    height: 190px;
+}
+#trow:hover{
+    width: 280px;
+    height: 190px;
+}
